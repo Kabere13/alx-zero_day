@@ -1,2 +1,2 @@
 My first readme
-on time
+only time
